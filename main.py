@@ -12,3 +12,5 @@ print("Maruf \nIslam \nSaad")
 #Next
 input("Hello" + " " + input("what is your color ?"))
 print("Maruf" + " Islam")
+ ##
+print("What is yor name ?")
